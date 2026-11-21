@@ -1,0 +1,5 @@
+$ git branch -avv
+  bug-fix-typo                819bb50 [origin/bug-fix-typo] Fix typo in simple-interest.sh
+* main                        452f3ae [origin/main] Add bug fix revert output
+  remotes/origin/bug-fix-typo 819bb50 Fix typo in simple-interest.sh
+  remotes/origin/main         452f3ae Add bug fix revert output
