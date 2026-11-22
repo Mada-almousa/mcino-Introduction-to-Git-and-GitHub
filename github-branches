@@ -1,7 +1,7 @@
 $ git branch -avv
   bug-fix-revert                452f3ae [origin/bug-fix-revert] Add bug fix revert output
   bug-fix-typo                  9d9f11f [origin/bug-fix-typo: ahead 1] Fix simple interest formula in README
-* main                          ab1021d [origin/main: behind 1] Fix merge branches output
+* main                          ab0776b [origin/main] Merge branch 'main' of https://github.com/Mada-almousa/mcino-Introduction-to-Git-and-GitHub
   remotes/origin/bug-fix-revert 452f3ae Add bug fix revert output
   remotes/origin/bug-fix-typo   819bb50 Fix typo in simple-interest.sh
-  remotes/origin/main           72f48ff merge_branches
+  remotes/origin/main           ab0776b Merge branch 'main' of https://github.com/Mada-almousa/mcino-Introduction-to-Git-and-GitHub
