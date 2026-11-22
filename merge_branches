@@ -1,7 +1,8 @@
-$ git checkout main
+ $ git checkout main
 Already on main
 
 $ git merge bug-fix-typo
 Merge branch 'bug-fix-typo'
+
  README.md | 2 +-
  1 file changed, 1 insertion(+), 1 deletion(-)
