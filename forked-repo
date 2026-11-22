@@ -1,11 +1,4 @@
-Welcome to Alpine!
-
-You can install packages with: apk add <package>
-
-You may change this message by editing /etc/motd.
-
-localhost:~# curl https://api.github.com/repos/Mada-alm
-ousa/mcino-Introduction-to-Git-and-GitHub
+$ curl -sS -u Mada-almousa https://api.github.com/repos/Mada-almousa/mcino-Introduction-to-Git-and-GitHub
 {
   "id": 1466022500,
   "node_id": "R_kgDOV2G6ZA",
@@ -75,13 +68,13 @@ ousa/mcino-Introduction-to-Git-and-GitHub
   "deployments_url": "https://api.github.com/repos/Mada-almousa/mcino-Introduction-to-Git-and-GitHub/deployments",
   "created_at": "2026-11-21T00:07:25Z",
   "updated_at": "2026-11-21T07:12:42Z",
-  "pushed_at": "2026-11-21T06:20:12Z",
+  "pushed_at": "2026-11-22T04:46:05Z",
   "git_url": "git://github.com/Mada-almousa/mcino-Introduction-to-Git-and-GitHub.git",
   "ssh_url": "git@github.com:Mada-almousa/mcino-Introduction-to-Git-and-GitHub.git",
   "clone_url": "https://github.com/Mada-almousa/mcino-Introduction-to-Git-and-GitHub.git",
   "svn_url": "https://github.com/Mada-almousa/mcino-Introduction-to-Git-and-GitHub",
   "homepage": null,
-  "size": 20,
+  "size": 26,
   "stargazers_count": 0,
   "watchers_count": 0,
   "language": "Python",
@@ -116,7 +109,24 @@ ousa/mcino-Introduction-to-Git-and-GitHub
   "open_issues": 0,
   "watchers": 0,
   "default_branch": "main",
-  "temp_clone_token": null,
+  "permissions": {
+    "admin": true,
+    "maintain": true,
+    "push": true,
+    "triage": true,
+    "pull": true
+  },
+  "allow_squash_merge": true,
+  "allow_merge_commit": true,
+  "allow_rebase_merge": true,
+  "allow_auto_merge": false,
+  "delete_branch_on_merge": false,
+  "allow_update_branch": false,
+  "use_squash_pr_title_as_default": false,
+  "squash_merge_commit_message": "COMMIT_MESSAGES",
+  "squash_merge_commit_title": "COMMIT_OR_PR_TITLE",
+  "merge_commit_message": "PR_TITLE",
+  "merge_commit_title": "MERGE_MESSAGE",
   "parent": {
     "id": 1050225087,
     "node_id": "R_kgDOPpkpvw",
@@ -185,7 +195,7 @@ ousa/mcino-Introduction-to-Git-and-GitHub
     "releases_url": "https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/releases{/id}",
     "deployments_url": "https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/deployments",
     "created_at": "2025-09-04T06:07:42Z",
-    "updated_at": "2026-11-19T14:21:36Z",
+    "updated_at": "2026-11-21T13:20:05Z",
     "pushed_at": "2025-09-04T10:02:47Z",
     "git_url": "git://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub.git",
     "ssh_url": "git@github.com:ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub.git",
@@ -202,7 +212,7 @@ ousa/mcino-Introduction-to-Git-and-GitHub
     "has_wiki": true,
     "has_pages": false,
     "has_discussions": false,
-    "forks_count": 12388,
+    "forks_count": 12414,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -223,7 +233,7 @@ ousa/mcino-Introduction-to-Git-and-GitHub
 
     ],
     "visibility": "public",
-    "forks": 12388,
+    "forks": 12414,
     "open_issues": 59,
     "watchers": 25,
     "default_branch": "main"
@@ -296,7 +306,7 @@ ousa/mcino-Introduction-to-Git-and-GitHub
     "releases_url": "https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/releases{/id}",
     "deployments_url": "https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/deployments",
     "created_at": "2025-09-04T06:07:42Z",
-    "updated_at": "2026-11-19T14:21:36Z",
+    "updated_at": "2026-11-21T13:20:05Z",
     "pushed_at": "2025-09-04T10:02:47Z",
     "git_url": "git://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub.git",
     "ssh_url": "git@github.com:ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub.git",
@@ -313,7 +323,7 @@ ousa/mcino-Introduction-to-Git-and-GitHub
     "has_wiki": true,
     "has_pages": false,
     "has_discussions": false,
-    "forks_count": 12388,
+    "forks_count": 12414,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -334,11 +344,11 @@ ousa/mcino-Introduction-to-Git-and-GitHub
 
     ],
     "visibility": "public",
-    "forks": 12388,
+    "forks": 12414,
     "open_issues": 59,
     "watchers": 25,
     "default_branch": "main"
   },
-  "network_count": 12388,
+  "network_count": 12414,
   "subscribers_count": 0
 }
